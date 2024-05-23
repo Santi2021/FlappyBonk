@@ -1,9 +1,3 @@
-CrappyBird
-==========
-
-Clone of Flappy Bird game in JavaScript and Canvas 2D
-
-
 The MIT License
 ----
 Copyright (c) 2014 Varun Pant
